@@ -1,2 +1,2 @@
 # editnote
-writing tool
+writing tool, update soon
