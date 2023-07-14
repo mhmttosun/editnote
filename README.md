@@ -1,2 +1,3 @@
 # editnote
-writing tool, update soon
+
+challenge with prosemirror
